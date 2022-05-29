@@ -5,7 +5,8 @@ This is Movie_recommender which recommend movies according to user's choice. To 
 How to run project in local system :-
 1. clone the project
 2. open up in any python supporting IDE(like pycharm).
-3. in terminal : streamlit run app.py
+3. in terminal : pip install streamlit
+4. in terminal : streamlit run app.py
 
 --> In order to create this project i have used two IDE jupyter notebook and pycharm.
 
